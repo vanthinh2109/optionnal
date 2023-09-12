@@ -1,0 +1,13 @@
+<bean id="account1" class="org.example.pojobeans.Account">
+        <property name ="id" value="1"/>
+        <property name ="ownername" value="John"/>
+        <property name ="balance" value="21.2"/>
+
+
+</bean>
+
+<bean id ="account2" class="org.example.pojobeans.Account">
+        <property name ="id" value="1"/>
+        <property name ="ownername" value="John"/>
+        <property name ="balance" value="21.2"/>
+</bean>
